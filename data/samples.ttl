@@ -1,0 +1,125 @@
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124488> <http://www.w3.org/2000/01/rdf-schema#label> "sample4" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124488> <http://example.org/property/biome> "root:Host-associated:Plants:Rhizosphere" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124488> <http://example.org/property/description> "AC2" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124488> <http://example.org/property/latitude> "43.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124488> <http://example.org/property/longitude> "81.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124487> <http://www.w3.org/2000/01/rdf-schema#label> "sample3" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124487> <http://example.org/property/biome> "root:Host-associated:Plants:Rhizosphere" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124487> <http://example.org/property/description> "AC1" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124487> <http://example.org/property/latitude> "43.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124487> <http://example.org/property/longitude> "81.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124485> <http://www.w3.org/2000/01/rdf-schema#label> "sample1" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124485> <http://example.org/property/biome> "root:Host-associated:Plants:Rhizosphere" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124485> <http://example.org/property/description> "con1" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124485> <http://example.org/property/latitude> "43.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124485> <http://example.org/property/longitude> "81.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124489> <http://www.w3.org/2000/01/rdf-schema#label> "sample5" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124489> <http://example.org/property/biome> "root:Host-associated:Plants:Rhizosphere" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124489> <http://example.org/property/description> "AC3" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124489> <http://example.org/property/latitude> "43.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124489> <http://example.org/property/longitude> "81.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124486> <http://www.w3.org/2000/01/rdf-schema#label> "sample2" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124486> <http://example.org/property/biome> "root:Host-associated:Plants:Rhizosphere" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124486> <http://example.org/property/description> "con2" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124486> <http://example.org/property/latitude> "43.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/SRS26124486> <http://example.org/property/longitude> "81.0" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387607> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220420T0526Z_MMA-109_SRF_PUMP_S023_SAMEA7909258" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387607> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387607> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Benguela-Current-Ecosystem_Lesley-Shackleton on date/time 2022-04-20T05:45:00Z, at location 32.7635 S 16.4434 E and depth (m)=1/5, using protocol S023 with sample pid SAMEA7909258" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387607> <http://example.org/property/latitude> "-32.7635" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387607> <http://example.org/property/longitude> "16.4434" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394923> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220409T1311Z_MMA-102_SRF_NET-20_S20_SAMEA7918705" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394923> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394923> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-09T13:16:00Z, at location 38.2114 S 6.3661 E and depth (m)=1/5, using protocol S20 with sample pid SAMEA7918705" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394923> <http://example.org/property/latitude> "-38.2114" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394923> <http://example.org/property/longitude> "6.3661" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386757> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220408T1505Z_MMA-100_SRF_NET-200_S200_SAMEA7908913" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386757> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386757> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-08T15:10:00Z, at location 38.2000 S 6.4150 E and depth (m)=1/5, using protocol S200 with sample pid SAMEA7908913" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386757> <http://example.org/property/latitude> "-38.2" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386757> <http://example.org/property/longitude> "6.415" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394636> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220407T0806Z_MMA-097_SRF_NET-200_S200_SAMEA7918514" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394636> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394636> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-07T08:11:00Z, at location 38.3785 S 7.0311 E and depth (m)=1/5, using protocol S200 with sample pid SAMEA7918514" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394636> <http://example.org/property/latitude> "-38.3785" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394636> <http://example.org/property/longitude> "7.0311" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395037> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220410T0944Z_MMA-103_SRF_NET-200_S200_SAMEA7918816" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395037> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395037> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-10T09:49:00Z, at location 38.1652 S 6.0190 E and depth (m)=1/5, using protocol S200 with sample pid SAMEA7918816" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395037> <http://example.org/property/latitude> "-38.1652" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395037> <http://example.org/property/longitude> "6.019" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394572> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220407T1438Z_MMA-097_EPI_NET-20_S20_SAMEA7918485" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394572> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394572> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-07T14:58:00Z, at location 38.3740 S 7.0305 E and depth (m)=0/200, using protocol S20 with sample pid SAMEA7918485" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394572> <http://example.org/property/latitude> "-38.374" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394572> <http://example.org/property/longitude> "7.0305" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369608> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220519T0552Z_MMA-118_SRF_PUMP_S023_SAMEA7896882" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369608> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369608> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Benguela-Current-Ecosystem_Lesley-Shackleton on date/time 2022-05-19T06:46:00Z, at location 23.8787 S 13.6260 E and depth (m)=1/5, using protocol S023 with sample pid SAMEA7896882" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369608> <http://example.org/property/latitude> "-23.8787" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369608> <http://example.org/property/longitude> "13.626" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394863> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220409T0632Z_MMA-101_SRF_NET-200_S200_SAMEA7918654" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394863> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394863> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-09T06:37:00Z, at location 38.1790 S 6.3970 E and depth (m)=1/5, using protocol S200 with sample pid SAMEA7918654" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394863> <http://example.org/property/latitude> "-38.179" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394863> <http://example.org/property/longitude> "6.397" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394914> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220409T1237Z_MMA-102_SRF_NET-200_S200_SAMEA7918696" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394914> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394914> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-09T12:42:00Z, at location 38.2115 S 6.3621 E and depth (m)=1/5, using protocol S200 with sample pid SAMEA7918696" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394914> <http://example.org/property/latitude> "-38.2115" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394914> <http://example.org/property/longitude> "6.3621" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369601> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220518T1130Z_MMA-117_EPI_ROSETTE_S023_SAMEA7896875" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369601> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369601> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Benguela-Current-Ecosystem_Lesley-Shackleton on date/time 2022-05-18T11:37:00Z, at location 23.8165 S 14.4254 E and depth (m)=8/12, using protocol S023 with sample pid SAMEA7896875" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369601> <http://example.org/property/latitude> "-23.8165" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20369601> <http://example.org/property/longitude> "14.4254" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20379131> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220406T1239Z_MMA-096_SRF_NET-20_S20_SAMEA7906406" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20379131> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20379131> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-06T12:44:00Z, at location 38.1580 S 6.0154 E and depth (m)=1/5, using protocol S20 with sample pid SAMEA7906406" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20379131> <http://example.org/property/latitude> "-38.158" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20379131> <http://example.org/property/longitude> "6.0154" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386772> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220410T1008Z_MMA-103_SRF_NET-20_S20_SAMEA7908935" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386772> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386772> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-10T10:13:00Z, at location 38.1715 S 6.0146 E and depth (m)=1/5, using protocol S20 with sample pid SAMEA7908935" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386772> <http://example.org/property/latitude> "-38.1715" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386772> <http://example.org/property/longitude> "6.0146" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386182> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220410T0732Z_MMA-103_SRF_PUMP_S320_SAMEA7908640" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386182> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386182> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-10T07:51:00Z, at location 38.1653 S 6.0207 E and depth (m)=1/5, using protocol S320 with sample pid SAMEA7908640" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386182> <http://example.org/property/latitude> "-38.1653" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386182> <http://example.org/property/longitude> "6.0207" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387623> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220420T1453Z_MMA-109_MES_ROSETTE_S023_SAMEA7909274" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387623> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387623> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Benguela-Current-Ecosystem_Lesley-Shackleton on date/time 2022-04-20T15:33:00Z, at location 32.7351 S 16.4336 E and depth (m)=995/1005, using protocol S023 with sample pid SAMEA7909274" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387623> <http://example.org/property/latitude> "-32.7351" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20387623> <http://example.org/property/longitude> "16.4336" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394856> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220409T0704Z_MMA-101_SRF_NET-20_S20_SAMEA7918646" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394856> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394856> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-09T07:09:00Z, at location 38.1810 S 6.3989 E and depth (m)=1/5, using protocol S20 with sample pid SAMEA7918646" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394856> <http://example.org/property/latitude> "-38.181" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20394856> <http://example.org/property/longitude> "6.3989" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386926> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220412T0851Z_MMA-104_SRF_NET-20_S20_SAMEA7908996" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386926> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386926> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-12T08:56:00Z, at location 35.3500 S 7.7759 E and depth (m)=1/5, using protocol S20 with sample pid SAMEA7908996" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386926> <http://example.org/property/latitude> "-35.35" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386926> <http://example.org/property/longitude> "7.7759" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386559> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220408T1635Z_MMA-100_EPI_ROSETTE_S320_SAMEA7908835" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386559> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386559> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-08T16:48:00Z, at location 38.2000 S 6.4130 E and depth (m)=20/30, using protocol S320 with sample pid SAMEA7908835" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386559> <http://example.org/property/latitude> "-38.2" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386559> <http://example.org/property/longitude> "6.413" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20405037> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220526T1202Z_MMA-122_EPI_ROSETTE_S023_SAMEA7934735" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20405037> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20405037> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Benguela-Current-Ecosystem_Lesley-Shackleton on date/time 2022-05-26T12:06:00Z, at location 21.8520 S 12.0960 E and depth (m)=25/35, using protocol S023 with sample pid SAMEA7934735" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20405037> <http://example.org/property/latitude> "-21.852" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20405037> <http://example.org/property/longitude> "12.096" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386163> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220409T1235Z_MMA-102_SRF_PUMP_S320_SAMEA7908620" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386163> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386163> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-09T12:50:00Z, at location 38.2087 S 6.3636 E and depth (m)=1/5, using protocol S320 with sample pid SAMEA7908620" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386163> <http://example.org/property/latitude> "-38.2087" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20386163> <http://example.org/property/longitude> "6.3636" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395106> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_20220412T0723Z_MMA-104_EPI_ROSETTE_S320_SAMEA7918882" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395106> <http://example.org/property/biome> "root:Environmental:Aquatic:Marine" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395106> <http://example.org/property/description> "This marine metagenome sample was collected during campaign Flagship-MMA-Topical-Study_Mesoscale-sub-Mesoscale_Emmy-Noether on date/time 2022-04-12T07:36:00Z, at location 35.3471 S 7.7760 E and depth (m)=70/80, using protocol S320 with sample pid SAMEA7918882" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395106> <http://example.org/property/latitude> "-35.3471" .
+<https://www.ebi.ac.uk/metagenomics/samples/ERS20395106> <http://example.org/property/longitude> "7.776" .

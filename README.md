@@ -58,7 +58,8 @@ Prerequisites
 Python 3.9+
 Apache Jena Fuseki (download at jena.apache.org)
 An Anthropic API key
-ENVO ontology file (available at obofoundry.org)
+ENVO ontology file (Download the ENVO ontology file from https://obofoundry.org/ontology/envo.html
+and place it in the /data directory before running Fuseki.)
 
 ### Installation
 ```bash
@@ -71,6 +72,9 @@ pip install -r requirements.txt
 ```bash
 fuseki-server --mem /ds
 ```
+Once Fuseki is running, navigate to http://localhost:3030 in your browser.
+Use the Fuseki web interface to upload the ENVO ontology file and the 
+instance data from the /data directory to your dataset.
 
 ### Environment Variables
 
