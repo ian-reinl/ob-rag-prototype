@@ -70,7 +70,7 @@ Running Fuseki
 bash# Start Fuseki with an in-memory dataset
 fuseki-server --mem /ds
 
-# Or with a persistent dataset
+## Or with a persistent dataset
 fuseki-server --update --loc=./data/fuseki /ds
 Environment Variables
 Create a .env file in the root directory:
