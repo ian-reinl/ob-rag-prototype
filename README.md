@@ -28,10 +28,15 @@ Anthropic Claude API (LLM generation)
 Grounded natural language answer
 ```
 
-Tech Stack
-```
-ComponentTechnologyTriple storeApache Jena FusekiDomain ontologyENVO (Environment Ontology)Instance dataMGnify API (marine microbiome)Query languageSPARQL 1.1LLMAnthropic Claude (via API)LanguagePython 3Key librariesSPARQLWrapper, requests, anthropic
-```
+| Component | Technology |
+|---|---|
+| Triple store | Apache Jena Fuseki |
+| Domain ontology | ENVO (Environment Ontology) |
+| Instance data | MGnify API (marine microbiome) |
+| Query language | SPARQL 1.1 |
+| LLM | Anthropic Claude (via API) |
+| Language | Python 3 |
+| Key libraries | `SPARQLWrapper`, `requests`, `anthropic` |
 
 Repository Structure
 ```
