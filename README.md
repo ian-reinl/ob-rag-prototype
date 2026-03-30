@@ -78,9 +78,9 @@ FUSEKI_ENDPOINT=http://localhost:3030/ds/sparql
 Research Context
 This prototype supports a research paper examining the theoretical limits of ontology-based retrieval-augmented generation as a hallucination mitigation strategy. The paper draws on:
 
-Gao et al. — DR.KNOWS: knowledge graph-based RAG for clinical decision support
-Zhao et al. — MedRAG: retrieval-augmented generation benchmarks in the biomedical domain
-Xu et al. — formal theorems establishing the conditions under which RAG systems can and cannot eliminate hallucination
+- **Gao et al.** — DR.KNOWS: knowledge graph-based RAG for clinical decision support
+- **Zhao et al.** — MedRAG: retrieval-augmented generation benchmarks in the biomedical domain
+- **Xu et al.** — formal theorems establishing the conditions under which RAG systems can and cannot eliminate hallucination
 
 The central argument is that while grounding retrieval in a formal ontology raises the semantic ceiling of RAG, enabling subsumption-aware retrieval and structured context, it cannot guarantee hallucination-free generation because the LLM's inference step remains formally unconstrained.
 
