@@ -82,10 +82,10 @@ Gao et al. — DR.KNOWS: knowledge graph-based RAG for clinical decision support
 Zhao et al. — MedRAG: retrieval-augmented generation benchmarks in the biomedical domain
 Xu et al. — formal theorems establishing the conditions under which RAG systems can and cannot eliminate hallucination
 
-The central argument is that while grounding retrieval in a formal ontology raises the semantic ceiling of RAG — enabling subsumption-aware retrieval and structured context — it cannot guarantee hallucination-free generation because the LLM's inference step remains formally unconstrained.
+The central argument is that while grounding retrieval in a formal ontology raises the semantic ceiling of RAG, enabling subsumption-aware retrieval and structured context, it cannot guarantee hallucination-free generation because the LLM's inference step remains formally unconstrained.
 
 About
-Developed by [Your Name] as part of the MS in Applied Ontology program at the University at Buffalo. Research interests include formal ontology, knowledge representation, and the intersection of OWL/description logics with applied AI systems.
+Developed by Ian Reinl as part of the MS in Applied Ontology program at the University at Buffalo. Research interests include formal ontology, knowledge representation, and the intersection of OWL/description logics with applied AI systems.
 
 License
 MIT License — see LICENSE for details.
