@@ -30,6 +30,7 @@ Tech Stack
 ComponentTechnologyTriple storeApache Jena FusekiDomain ontologyENVO (Environment Ontology)Instance dataMGnify API (marine microbiome)Query languageSPARQL 1.1LLMAnthropic Claude (via API)LanguagePython 3Key librariesSPARQLWrapper, requests, anthropic
 
 Repository Structure
+'''
 ob-rag-prototype/
 ├── README.md
 ├── src/
@@ -40,6 +41,7 @@ ob-rag-prototype/
 │   └── (sample ontology fragments and instance data)
 └── docs/
     └── (architecture notes and research context)
+'''
 
 Setup
 Prerequisites
