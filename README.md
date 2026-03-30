@@ -62,20 +62,25 @@ Apache Jena Fuseki (download at jena.apache.org)
 An Anthropic API key
 ENVO ontology file (available at obofoundry.org)
 
-##  Installation
-bashgit clone https://github.com/ianre-reinl/ob-rag-prototype.git
+### Installation
+```bash
+git clone https://github.com/YOUR-USERNAME/ob-rag-prototype.git
 cd ob-rag-prototype
 pip install -r requirements.txt
-Running Fuseki
-bash# Start Fuseki with an in-memory dataset
-fuseki-server --mem /ds
+```
 
-## Or with a persistent dataset
-fuseki-server --update --loc=./data/fuseki /ds
-Environment Variables
-Create a .env file in the root directory:
+### Running Fuseki
+```bash
+fuseki-server --mem /ds
+```
+
+### Environment Variables
+
+Create a `.env` file in the root directory:
+```
 ANTHROPIC_API_KEY=your_api_key_here
 FUSEKI_ENDPOINT=http://localhost:3030/ds/sparql
+```
 
 ## Research Context
 This prototype supports a research paper examining the theoretical limits of ontology-based retrieval-augmented generation as a hallucination mitigation strategy. The paper draws on:
