@@ -46,8 +46,6 @@ ob-rag-prototype/
 ├── README.md
 ├── src/
 │   └── (pipeline scripts)
-├── sparql/
-│   └── (SPARQL query templates)
 ├── data/
 │   └── (sample ontology fragments and instance data)
 └── docs/
