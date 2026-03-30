@@ -7,6 +7,7 @@ This prototype addresses that limitation by grounding retrieval in a formal onto
 The system is the basis for ongoing research arguing that OB-RAG reduces but cannot eliminate LLM hallucination, drawing on formal hallucination theorems and empirical benchmarks from the biomedical RAG literature.
 
 Architecture
+```
 User query (natural language)
         │
         ▼
@@ -25,12 +26,15 @@ Anthropic Claude API (LLM generation)
         │
         ▼
 Grounded natural language answer
+```
 
 Tech Stack
+```
 ComponentTechnologyTriple storeApache Jena FusekiDomain ontologyENVO (Environment Ontology)Instance dataMGnify API (marine microbiome)Query languageSPARQL 1.1LLMAnthropic Claude (via API)LanguagePython 3Key librariesSPARQLWrapper, requests, anthropic
+```
 
 Repository Structure
-'''
+```
 ob-rag-prototype/
 ├── README.md
 ├── src/
@@ -41,7 +45,7 @@ ob-rag-prototype/
 │   └── (sample ontology fragments and instance data)
 └── docs/
     └── (architecture notes and research context)
-'''
+```
 
 Setup
 Prerequisites
