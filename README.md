@@ -10,7 +10,7 @@ The system is the basis for ongoing research arguing that OB-RAG reduces but can
 
 ## Architecture
 
-![OB-RAG Architecture](docs/architecture.svg)
+![OB-RAG Architecture](docs/ob_rag_architecture)
 ```
 User query (natural language)
         │
