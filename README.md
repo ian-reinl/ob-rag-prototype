@@ -52,14 +52,12 @@ ob-rag-prototype/
     └── (architecture notes and research context)
 ```
 
-## Setup
-Prerequisites
+### Prerequisites
 
-Python 3.9+
-Apache Jena Fuseki (download at jena.apache.org)
-An Anthropic API key
-ENVO ontology file (Download the ENVO ontology file from https://obofoundry.org/ontology/envo.html
-and place it in the /data directory before running Fuseki.)
+- Python 3.9+
+- Apache Jena Fuseki (download at [jena.apache.org](https://jena.apache.org/documentation/fuseki2/))
+- An Anthropic API key
+- ENVO ontology file (download from [obofoundry.org](https://obofoundry.org/ontology/envo.html) and place in the `/data` directory)
 
 ### Installation
 ```bash
