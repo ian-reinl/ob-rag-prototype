@@ -9,6 +9,8 @@ This prototype addresses that limitation by grounding retrieval in a formal onto
 The system is the basis for ongoing research arguing that OB-RAG reduces but cannot eliminate LLM hallucination, drawing on formal hallucination theorems and empirical benchmarks from the biomedical RAG literature.
 
 ## Architecture
+
+![OB-RAG Architecture](docs/architecture.svg)
 ```
 User query (natural language)
         │
